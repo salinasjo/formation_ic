@@ -12,13 +12,18 @@ todo List:
 
 #Organisation du repo
 
+myProject : dossier contenant projet
+README
+
 ---
 
 ```cpp
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello World!";
+    cout << "Hello World!";
     return 0;
 }
 ```
