@@ -1,0 +1,202 @@
+{
+    "drones": [
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 30.5,
+                "cruiseSpeed": 430.25,
+                "maxAltitude": 15000,
+                "maxRange": 500,
+                "weightCapacity": 700,
+                "wingType": {
+                    "maxAngle": 45.5,
+                    "name": "voilure fixe"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 3
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 28,
+                "cruiseSpeed": 400,
+                "maxAltitude": 10000,
+                "maxRange": 550,
+                "weightCapacity": 500,
+                "wingType": {
+                    "maxAngle": 0,
+                    "name": "voilure mobile"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 4
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 30.5,
+                "cruiseSpeed": 430.25,
+                "maxAltitude": 15000,
+                "maxRange": 500,
+                "weightCapacity": 700,
+                "wingType": {
+                    "maxAngle": 45.5,
+                    "name": "voilure fixe"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 5
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 28,
+                "cruiseSpeed": 400,
+                "maxAltitude": 10000,
+                "maxRange": 550,
+                "weightCapacity": 500,
+                "wingType": {
+                    "maxAngle": 0,
+                    "name": "voilure mobile"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 6
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 5,
+                "cruiseSpeed": 180,
+                "maxAltitude": 2000,
+                "maxRange": 200,
+                "weightCapacity": 0,
+                "wingType": {
+                    "maxAngle": 0,
+                    "name": "voilure mobile"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 7
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 40,
+                "cruiseSpeed": 350,
+                "maxAltitude": 13000,
+                "maxRange": 350,
+                "weightCapacity": 300,
+                "wingType": {
+                    "maxAngle": 45.5,
+                    "name": "voilure fixe"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 8
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 20,
+                "cruiseSpeed": 300,
+                "maxAltitude": 17000,
+                "maxRange": 450,
+                "weightCapacity": 600,
+                "wingType": {
+                    "maxAngle": 0,
+                    "name": "voilure mobile"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 2,
+                "longitude": 46
+            },
+            "id": 9
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 25,
+                "cruiseSpeed": 320,
+                "maxAltitude": 18000,
+                "maxRange": 400,
+                "weightCapacity": 650,
+                "wingType": {
+                    "maxAngle": 45.5,
+                    "name": "voilure fixe"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 3,
+                "longitude": 49
+            },
+            "id": 10
+        },
+        {
+            "currentMission": {
+            },
+            "deleted": false,
+            "droneType": {
+                "autonomy": 11,
+                "cruiseSpeed": 11,
+                "maxAltitude": 11,
+                "maxRange": 11,
+                "weightCapacity": 11,
+                "wingType": {
+                    "maxAngle": 11,
+                    "name": "Fixed"
+                }
+            },
+            "groundPosition": {
+                "altitude": 0,
+                "latitude": 11,
+                "longitude": 11
+            },
+            "id": 11
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+release
+debug
+*.o
+project/droneVulkan.pro.user.9777f88
+project/ui_drawer.h
+project/ui_drawwidget.h
+project/ui_droneformwindow.h
+project/ui_dronewindow.h
+project/ui_loginwindow.h
+project/ui_mainwindow.h
+project/ui_missionwindow.h
+project/ui_trajectoryWindow.h

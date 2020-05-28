@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file alias="satImage.jpg">image/satImage.jpg</file>
+        <file>image/franceGmap.png</file>
+        <file>image/franceGmapsmall.png</file>
+        <file>image/pleaseWait.jpg</file>
+    </qresource>
+</RCC>

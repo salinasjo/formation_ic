@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "firstName": "Danny",
+            "lastName": "DEVITO",
+            "login": "DD",
+            "password": "1234",
+            "type": "commander"
+        },
+        {
+            "firstName": "John-117",
+            "lastName": "MASTER CHIEF",
+            "login": "Halo",
+            "password": "Bungie",
+            "type": "admin"
+        },
+        {
+            "firstName": "James",
+            "lastName": "BOND",
+            "login": "JB",
+            "password": "007",
+            "type": "operator"
+        }
+    ]
+}
